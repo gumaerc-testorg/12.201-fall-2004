@@ -11,8 +11,13 @@ description: 'This resource includes the historical perspective, introduction to
   ture, Surface waves, Rayleigh waves, Love waves, Sensitivity kernels, Excitation
   of surface waves, Dispersion: phase and group velocity, Dispersion curves, and Seismology
   - free oscillations.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-201-essentials-of-geophysics-fall-2004/b78f19037066b01c0977aa9dda43b225_ch4.pdf
+file: /media/courses/12-201-essentials-of-geophysics-fall-2004/b78f19037066b01c0977aa9dda43b225_ch4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ch4.pdf
 uid: b78f1903-7066-b01c-0977-aa9dda43b225
