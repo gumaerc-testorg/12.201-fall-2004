@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: e8387098-1df9-1f65-f2a0-2611dbabbdab
 resourcetype: Other
 title: shdemo.m
 uid: 9ac22afe-fa22-3fc7-b405-ac66235eca48

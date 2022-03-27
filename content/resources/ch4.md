@@ -18,6 +18,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3b17c37b-32df-c290-d9a0-2e3b79dbb70d
 resourcetype: Document
 title: ch4.pdf
 uid: b78f1903-7066-b01c-0977-aa9dda43b225

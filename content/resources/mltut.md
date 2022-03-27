@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: e8387098-1df9-1f65-f2a0-2611dbabbdab
 resourcetype: Document
 title: mltut.pdf
 uid: ead6cf97-fdd7-eb9c-e72e-edf300718ee2
