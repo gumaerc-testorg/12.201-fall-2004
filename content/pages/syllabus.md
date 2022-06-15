@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, topics, grading, and textbooks.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -87,4 +89,4 @@ No mid-term exam will be given. It is expected that students will work independe
 Textbooks
 ---------
 
-This course doesn't use one single text book. For further reading, see recommended text books in the [readings]({{< baseurl >}}/pages/readings) section.
+This course doesn't use one single text book. For further reading, see recommended text books in the {{% resource_link 29a32286-4abc-ba4f-5a3a-e60670c21c7d "readings" %}} section.

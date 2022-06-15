@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -9,7 +10,7 @@ uid: 3b17c37b-32df-c290-d9a0-2e3b79dbb70d
 
 The 5 chapters presented here started off as a set of rough lecture notes and are updated every year.
 
-Chapter 1: The Earth in the Solar System ([PDF]({{< baseurl >}}/resources/ch1))
+Chapter 1: The Earth in the Solar System ({{% resource_link ed326cbc-7ba3-cbbf-b0c2-1fb6a1dba00a "PDF" %}})
 -------------------------------------------------------------------------------
 
 1.1 Solar System Formation, Accretion, and the Early Thermal State of the Earth  
@@ -29,7 +30,7 @@ Chapter 1: The Earth in the Solar System ([PDF]({{< baseurl >}}/resources/ch1))
 1.15 One-dimensional Earth's Structure  
 1.16 Lateral Heterogeneity in the Mantle
 
-Chapter 2: The Earth's Gravitational Field ([PDF - 1.0 MB]({{< baseurl >}}/resources/ch2))
+Chapter 2: The Earth's Gravitational Field ({{% resource_link 7fa24d33-6366-b74c-52ad-b48ae6c8cf6f "PDF - 1.0 MB" %}})
 ------------------------------------------------------------------------------------------
 
 2.1 Global Gravity, Potentials, Figure of the Earth, Geoid  
@@ -42,7 +43,7 @@ Chapter 2: The Earth's Gravitational Field ([PDF - 1.0 MB]({{< baseurl >}}/resou
 2.8 Correlation between Gravity Anomalies and Topography  
 2.9 Flexure and Gravity
 
-Chapter 3: The Magnetic Field of the Earth ([PDF - 1.7 MB]({{< baseurl >}}/resources/ch3pdf))
+Chapter 3: The Magnetic Field of the Earth ({{% resource_link f45383d9-b61f-24c2-c5fa-474288d7158d "PDF - 1.7 MB" %}})
 ---------------------------------------------------------------------------------------------
 
 3.1 The Main Field  
@@ -64,7 +65,7 @@ Chapter 3: The Magnetic Field of the Earth ([PDF - 1.7 MB]({{< baseurl >}}/resou
 3.17 Reversals: Time Scale, Sea Floor Spreading, Magnetic Anomalies  
 3.18 Magnetic Anomaly Profiles
 
-Chapter 4: Seismology ([PDF - 1.1 MB]({{< baseurl >}}/resources/ch4))
+Chapter 4: Seismology ({{% resource_link b78f1903-7066-b01c-0977-aa9dda43b225 "PDF - 1.1 MB" %}})
 ---------------------------------------------------------------------
 
 4.1 Historical Perspective  
@@ -91,7 +92,7 @@ Chapter 4: Seismology ([PDF - 1.1 MB]({{< baseurl >}}/resources/ch4))
 4.22 Dispersion Curves  
 4.23 Seismology: Free Oscillations
 
-Chapter 5: Geodynamics ([PDF]({{< baseurl >}}/resources/ch5))
+Chapter 5: Geodynamics ({{% resource_link 0b35f486-23df-d0c7-ab89-ab038a7ab343 "PDF" %}})
 -------------------------------------------------------------
 
 5.1 Heat Flow  
