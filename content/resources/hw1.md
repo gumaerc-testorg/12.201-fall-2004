@@ -6,6 +6,7 @@ file: /courses/12-201-essentials-of-geophysics-fall-2004/e205a3104ac8b1d6f0999b2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw1.pdf
 uid: e205a310-4ac8-b1d6-f099-9b23be135cea
 ---
 This resource deals with the problems related to vector calculus and matlab.
-

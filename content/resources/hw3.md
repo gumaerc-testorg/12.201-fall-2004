@@ -5,6 +5,7 @@ file: /courses/12-201-essentials-of-geophysics-fall-2004/00c2db2c82a6f94e649f139
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hw3.pdf
 uid: 00c2db2c-82a6-f94e-649f-139d1c7daf4c
 ---
 This resource includes 4 problems.
-
