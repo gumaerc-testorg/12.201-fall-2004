@@ -8,6 +8,7 @@ description: 'This file contains the following topics:
   and the reduction of gravity data, correlation between gravity anomalies and topography,
   and flexure and gravity.'
 file: /courses/12-201-essentials-of-geophysics-fall-2004/7fa24d336366b74c52adb48ae6c8cf6f_ch2.pdf
+file_size: 1087560
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
