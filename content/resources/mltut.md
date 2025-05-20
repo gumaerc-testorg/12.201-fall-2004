@@ -5,7 +5,7 @@ description: This resource includes getting started with matlab, matrices, matri
   special matrices, algebraic operations in matlab, matrix algebra, array products,
   transpose of matrix, inner products of two vectors, Outer product of two vectors
   and solution to simultaneous equations.
-file: /ol-ocw-studio-app/courses/12-201-essentials-of-geophysics-fall-2004/ead6cf97fdd7eb9ce72eedf300718ee2_mltut.pdf
+file: /courses/12-201-essentials-of-geophysics-fall-2004/ead6cf97fdd7eb9ce72eedf300718ee2_mltut.pdf
 file_size: 181748
 file_type: application/pdf
 learning_resource_types:

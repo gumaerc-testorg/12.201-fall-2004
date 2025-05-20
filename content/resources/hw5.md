@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes 4 problems.
-file: /ol-ocw-studio-app/courses/12-201-essentials-of-geophysics-fall-2004/d5ca84d606367efc4be4ccb854d65a19_hw5.pdf
+file: /courses/12-201-essentials-of-geophysics-fall-2004/d5ca84d606367efc4be4ccb854d65a19_hw5.pdf
 file_size: 98328
 file_type: application/pdf
 learning_resource_types:
