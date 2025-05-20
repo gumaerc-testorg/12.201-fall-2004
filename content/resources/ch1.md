@@ -8,7 +8,7 @@ description: 'This file contains the following topics:
   and the bulk composition of the earth, chondrites, secondary processing, achondrites,
   irons and stony-irons, the terrestrial planets, one-dimensional earth''s structure,
   and lateral heterogeneity in the mantle.'
-file: /ol-ocw-studio-app/courses/12-201-essentials-of-geophysics-fall-2004/ed326cbc7ba3cbbfb0c21fb6a1dba00a_ch1.pdf
+file: /courses/12-201-essentials-of-geophysics-fall-2004/ed326cbc7ba3cbbfb0c21fb6a1dba00a_ch1.pdf
 file_size: 319389
 file_type: application/pdf
 learning_resource_types:
