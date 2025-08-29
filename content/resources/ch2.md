@@ -7,7 +7,7 @@ description: 'This file contains the following topics:
   coordinate systems, spherical harmonics, global gravity anomalies, gravity anomalies
   and the reduction of gravity data, correlation between gravity anomalies and topography,
   and flexure and gravity.'
-file: /courses/12-201-essentials-of-geophysics-fall-2004/7fa24d336366b74c52adb48ae6c8cf6f_ch2.pdf
+file: /ol-ocw-studio-app/courses/12-201-essentials-of-geophysics-fall-2004/7fa24d336366b74c52adb48ae6c8cf6f_ch2.pdf
 file_size: 1087560
 file_type: application/pdf
 learning_resource_types:
